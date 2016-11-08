@@ -1,5 +1,8 @@
 {
   "labels": {
+    "CREATION_DATE": "Date de creation",
+    "SHORTCUT_HELP": "Aide sur les raccourcis",
+    "SEARCH_PLACEHOLDER": "Recherche ici",
     "APP_VENDOR": "Camunda",
     "ADMIN_APP": "Admin",
     "TASKLIST_APP": "Tasklist",
